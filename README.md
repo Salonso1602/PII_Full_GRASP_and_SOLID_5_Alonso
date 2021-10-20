@@ -4,7 +4,7 @@
 
 En este programa trabajaremos con recetas de cocina que involucran ingredientes y equipamiento.
 
-## Desafío(s)
+## Desafío(s)  :heavy_check_mark:	
 
 Este ejemplo es el mismo que hemos utilizado hasta ahora, pero el código tiene modificaciones resultantes de aplicar los principio y patrones anteriores.
 
